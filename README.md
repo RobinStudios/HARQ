@@ -11,4 +11,4 @@ photons:
 
 neutral atoms:
 
-superconducting circuits:md…]()
+superconducting circuits:
